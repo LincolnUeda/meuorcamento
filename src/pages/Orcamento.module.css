@@ -1,0 +1,23 @@
+
+
+.form_orcamento{
+    width: 28%;
+    margin: 3% 42% 0 30%;
+}
+
+.form_orcamento label{
+    color:#595959;
+}
+
+
+.linha{
+    margin: 3px 0 12px 0;
+
+}
+
+.linha1{
+    display:flex;
+    justify-Content:space-between;
+    margin: 3px 0 12px 0;
+}
+

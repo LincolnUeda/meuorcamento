@@ -1,0 +1,31 @@
+.MenuItem{
+    padding: 10px;
+    text-align: left;
+    color:azure;
+    display: flex;
+}
+
+.MenuItem a{
+    text-decoration: none;
+    color:azure;
+
+
+}
+
+
+.MenuItem a:hover{
+    color:rgb(111, 180, 151);
+}
+
+.MenuPrincipal{
+    display: flex;
+    width:100%;
+    background-color: dimgrey;
+    align-items: center;
+}
+
+.MenuPrincipal ul{
+    list-style: none;
+    display: flex;
+}
+

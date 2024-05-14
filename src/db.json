@@ -1,0 +1,22 @@
+{
+  "orcamentos": [
+    {
+      "id": "1",
+      "titulo": "Area de Lazer",
+      "descricao": "construção de area de lazer com piscina",
+      "status": "A"
+    },
+    {
+      "id": "2",
+      "titulo": "Varanda",
+      "descricao": "aumentar varanda do fundo",
+      "status": "B"
+    },
+    {
+      "id": "3",
+      "titulo": "Escritório",
+      "descricao": "construir comodo na frente para ser escritório",
+      "status": "C"
+    }
+  ]
+}

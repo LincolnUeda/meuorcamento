@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  font-family:sans-serif;
+}
+
+body{
+  margin: 0;
+  background-color: #e3e3e3;
+}
+
+.bemvindo{
+    display: flex;
+    text-align: center;
+
+
+}
+
+.btn_geral{
+    width: 115px;
+    height: 40px;
+    border: none;
+    background-color: dimgray;
+    color: azure;
+    font-size: 12pt;
+    margin-top: 12px;
+}
